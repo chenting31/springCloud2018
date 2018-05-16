@@ -3,11 +3,13 @@ package com.xtaro.springcloud.service.impl;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.xtaro.springcloud.dao.DeptDao;
 import com.xtaro.springcloud.entities.Dept;
 import com.xtaro.springcloud.service.DeptService;
 
+@Service
 public class DeptServiceImpl implements DeptService{
 	
 	@Autowired
