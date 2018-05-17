@@ -8,7 +8,7 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>microservicecloud-consumer-dept-82</artifactId>
+	<artifactId>microservicecloud-consumer-dept-81</artifactId>
 	<description>部门微服务消费者</description>
 
 	<dependencies>
