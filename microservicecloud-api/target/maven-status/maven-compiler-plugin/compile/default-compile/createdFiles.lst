@@ -1,2 +1,4 @@
+com\xtaro\springcloud\service\DeptClientServiceFallbackFactory.class
 com\xtaro\springcloud\entities\Dept.class
 com\xtaro\springcloud\service\DeptClientService.class
+com\xtaro\springcloud\service\DeptClientServiceFallbackFactory$1.class
